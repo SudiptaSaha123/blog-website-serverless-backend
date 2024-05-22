@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://app-backend.sudiptasaha883.workers.dev"
